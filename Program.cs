@@ -11,6 +11,7 @@ namespace LaboratorioEnsuringTruth_Pedro_Estefany
             casosString = Console.ReadLine();
             casos = Int32.Parse(casosString);
             //Console.WriteLine(casos);
+            //Test
         }
     }
 }
